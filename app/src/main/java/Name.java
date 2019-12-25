@@ -1,3 +1,3 @@
 public class Name {
-    String s;
+    String s="изменено";
 }
